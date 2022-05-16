@@ -1,6 +1,6 @@
 # Find The Hat #
 
-This is a project from the **Codecademy PRO** path for **Front-End Engineer** at the end of the **JavaScript Syntax, Part III course** on **Classes**.
+This is a project from the [**Codecademy PRO**](https://www.codecademy.com/) path for [**Front-End Engineer**](https://www.codecademy.com/learn/paths/front-end-engineer-career-path) at the end of the **JavaScript Syntax, Part III** course on **Classes**.
 
 The project goal is to build an interactive terminal game in which the player has lost their hat in a field full of holes and they must navigate back to it without failling down one of the holes or stepping outside of the field.
 
